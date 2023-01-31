@@ -3,3 +3,5 @@ Line 2
 Line 3
 
 Line 4 (new_branch)
+
+Line 5 (exp_branch)
